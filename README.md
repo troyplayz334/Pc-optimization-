@@ -36,7 +36,3 @@ A lightweight yet powerful Windows optimization tool written in Batch script tha
 1. Download the `.bat` file  
 2. **Right-click** → "Run as administrator"  
 3. Select optimization options from the menu  
-
-```bash
-# Direct download (Raw):
-curl -O https://raw.githubusercontent.com/[your-repo]/main/PC_Optimizer.bat
